@@ -128,37 +128,29 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_E_1026_500_480x360_265
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMES",ST Novela E +
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_250_320x240_7779/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS_Blitz_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport blitz  
-http://magco.rip/live/41246671289321/41604451921808/79003.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48736
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS1_light_background_4-3_004_lrg.png" group-title="DSTV", SuperSport 1 HD
-http://magco.rip/live/41246671289321/41604451921808/78991.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48748
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS2_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 2 HD
-http://magco.rip/live/41246671289321/41604451921808/78992.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48744
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS3_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 3 HD
-http://magco.rip/live/41246671289321/41604451921808/78993.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48743
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS4_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 4 HD
-http://magco.rip/live/41246671289321/41604451921808/78994.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48742
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS5_light_background_4-3_005_lrg.png" group-title="DSTV", SuperSport 5 HD
-http://magco.rip/live/41246671289321/41604451921808/78995.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48741
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS6_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 6 HD
-http://magco.rip/live/41246671289321/41604451921808/78996.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48740
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS7_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 7 HD
-http://magco.rip/live/41246671289321/41604451921808/78997.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48739
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS8_light_background_4-3_lrg.png" group-title="DSTV", SuperSport 8 HD
-http://magco.rip/live/41246671289321/41604451921808/78998.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48738
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS9_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 9 HD
-http://magco.rip/live/41246671289321/41604451921808/78999.m3u8
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48737
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS10_light_background_4-3_lrg.png" group-title="DSTV", SuperSport 10 HD
-http://magco.rip/live/41246671289321/41604451921808/79000.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS11_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 11 HD
-http://magco.rip/live/41246671289321/41604451921808/79001.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS12_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 12 HD
-http://magco.rip/live/41246671289321/41604451921808/79002.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS1_Maximo_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 1 Maximo
-http://magco.rip/live/41246671289321/41604451921808/79004.m3u8
-#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/07/30/SuperSlam_Logo-4-3_LightBackground_lrg.png " group-title="DSTV",SuperSlam
+http://m3ulink.com:7899/Imrealmadrid991/k2pbZExa/48747
+
 
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/02/DStv_Ginx_Logo_4-3_light_background_lrg.png" group-title="DSTV", Ginx eSports TV
 http://magco.rip/live/41246671289321/41604451921808/79006.m3u8
